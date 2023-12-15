@@ -26,7 +26,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 📚: In my free time I work on my game project and study technical literature in the field of software development.
 
-- 📫: How to contact me: Just send email to dkan425@gmail.com
+- 📫: How to contact me: Just send email to alexnuklinov@yandex.ru
 
 ---
 
