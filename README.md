@@ -7,6 +7,12 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://hh.ru/resume/96faf857ff0af3b8a50039ed1f4c5a66374a72">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexPushKaN&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
